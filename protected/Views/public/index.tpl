@@ -77,7 +77,7 @@
 <div class="container-fluid py-4">
     <div class="row">
         <div class="col-12 text-center">
-            <img src="{$IMAGES}/Aspen Creek Alaska-0267-2.jpg" class="img-fluid" alt="">
+            <img src="{$IMAGES}/Aspen Creek Alaska-0267-2.jpg" style="width: 50%;" class="img-fluid" alt="">
         </div>
     </div>
 </div>
