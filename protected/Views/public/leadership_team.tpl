@@ -172,29 +172,7 @@
 				</div>
 			</div>
 			<!-- /kelli hansen -->
-
-			<!-- cindy anderton -->
-			<div class="card">
-				<div class="card-header" id="heading8">
-					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-						<div class="row">
-							<div class="col-lg-3 col-sm-12">
-								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0091_Cindy Anderton.jpg" width="232" alt="cindy anderton community liaison" class="float-left rounded">
-							</div>
-							<div class="col-lg-9 col-sm-12">
-								<h2 class="text-left">Cindy Anderton<br><span class="text-20">Community Liaison</span></h2>
-							</div>
-						</div>
-					</button>
-				</div>
-				<div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#leadershipAccordion">
-					<div class="card-body">
-						<!-- TODO: Add about section for cindy -->
-					</div>
-				</div>
-			</div>
-			<!-- /cindy anderton -->
-
+			
 			<!-- kemish hendershot -->
 			<div class="card">
 				<div class="card-header" id="heading8">
