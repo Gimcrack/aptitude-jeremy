@@ -21,7 +21,7 @@
 					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
 						<div class="row">
 							<div class="col-lg-3 col-sm-12">
-								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0376_Anna Houser.jpg" alt="life enrichment director for elderly care center Alaska" class="float-left rounded">
+								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0376_Anna Houser.jpg" height="250" width="200" alt="life enrichment director for elderly care center Alaska" class="float-left rounded">
 							</div>
 							<div class="col-lg-9 col-sm-12">
 								<h2 class="text-left">Anna Houser<br><span class="text-20">Executive Director</span></h2>
@@ -51,7 +51,7 @@
 					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
 						<div class="row">
 							<div class="col-lg-3 col-sm-12">
- 								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0324-3_Shannon Abrams.jpg" alt="clinical director for senior care center Anchorage, Alaska elderly care Alaska " class="float-left rounded">
+ 								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0324-3_Shannon Abrams.jpg" height="250" width="200" alt="clinical director for senior care center Anchorage, Alaska elderly care Alaska " class="float-left rounded">
  							</div>
 							<div class="col-lg-9 col-sm-12">
 								<h2 class="text-left">Shannon Abrams<br><span class="text-20">Clinical Director</span></h2>
@@ -157,8 +157,8 @@
 					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
 						<div class="row">
 							<div class="col-lg-3 col-sm-12">
-								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0169_Kelli Hansen.jpg" alt="kelli hansen community liaison" class="float-left rounded">
-							</div>-
+								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0169_Kelli Hansen.jpg" height="250" width="200" alt="kelli hansen community liaison" class="float-left rounded">
+							</div>
 							<div class="col-lg-9 col-sm-12">
 								<h2 class="text-left">Kelli Hansen<br><span class="text-20">Community Liaison</span></h2>
 							</div>
@@ -179,7 +179,7 @@
 					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
 						<div class="row">
 							<div class="col-lg-3 col-sm-12">
-								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0091_Cindy Anderton.jpg" alt="cindy anderton community liaison" class="float-left rounded">
+								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0091_Cindy Anderton.jpg" height="250" width="200" alt="cindy anderton community liaison" class="float-left rounded">
 							</div>
 							<div class="col-lg-9 col-sm-12">
 								<h2 class="text-left">Cindy Anderton<br><span class="text-20">Community Liaison</span></h2>
@@ -201,7 +201,7 @@
 					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
 						<div class="row">
 							<div class="col-lg-3 col-sm-12">
-								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0424-2_Kemish Hendershot.jpg" alt="coo for assisted living Anchorage, Alaska" class="float-left rounded">
+								<img src="{$IMAGES}/staff/Aspen Creek Alaska-0424-2_Kemish Hendershot.jpg" height="250" width="200" alt="coo for assisted living Anchorage, Alaska" class="float-left rounded">
 							</div>
 							<div class="col-lg-9 col-sm-12">
 								<h2 class="text-left">Kemish W. Hendershot<br><span class="text-20">Chief Operating Officer/Owner</span></h2>			
