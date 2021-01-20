@@ -57,6 +57,7 @@
             blurb1: false,
             blurb2: false,
             blurb3: false,
+            blurb4: false,
         }
     }" class="mt-8 md:mt-20">
 	<div class="story-wrapper bg-white pb-5 md:pb-8">
@@ -134,7 +135,7 @@ The feelings this event created were so memorable. Just another way we are worki
 
 	<div class="story-wrapper bg-gray-200 py-5 md:py-8">
 		<div class="story container mx-auto my-0 flex flex-col space-y-4 md:space-y-8 lg:space-y-16 py-4 md:py-8 lg:py-16">
-			<h2 @click="toggles.blurb3 = !toggles.blurb3"
+			<h2 @click="toggles.blurb4 = !toggles.blurb4"
 				class="text-center text-lg sm:text-2xl md:text-3xl lg:text-5xl cursor-pointer">
 				One Word
 
@@ -144,9 +145,9 @@ The feelings this event created were so memorable. Just another way we are worki
 				Our culture is founded on relationships. We are passionate about providing senior caregiving in a
 				multi-generational community, and connecting Anchorage.
 
-				<span x-show="toggles.blurb3"><br><br>Home. <br><br>
-Legacies are shared. Time is valued. </span><span><button @click="toggles.blurb3 = ! toggles.blurb3"
-														  x-text="toggles.blurb3 ? 'Read Less' : 'Read More'"
+				<span x-show="toggles.blurb4"><br><br>Home. <br><br>
+Legacies are shared. Time is valued. </span><span><button @click="toggles.blurb4 = ! toggles.blurb4"
+														  x-text="toggles.blurb4 ? 'Read Less' : 'Read More'"
 														  class="text-xs uppercase ml-2"></button></span>
 			</p>
 			<div class="video-container">
