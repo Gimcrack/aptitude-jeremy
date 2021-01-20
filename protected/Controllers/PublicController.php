@@ -67,6 +67,15 @@ class PublicController extends MainPageController {
 	}
 
 
+	/*
+	 * Our Stories page
+	 *
+	 */
+	public function stories() {
+		$this->template = 'stories';
+	}
+
+
 			
 	/* 
 	 * Contact page
