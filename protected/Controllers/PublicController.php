@@ -72,7 +72,7 @@ class PublicController extends MainPageController {
 	 *
 	 */
 	public function stories() {
-		$this->template = 'stories';
+
 	}
 
 
