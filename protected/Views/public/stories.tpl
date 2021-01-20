@@ -1,5 +1,36 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css">
-<script src="https://cdn.skypack.dev/alpinejs@2.7.3"></script>
+<style>
+  .video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.text-blue-ac {
+  color: #54b8ef;
+}
+
+.bg-blue-ac {
+  background: #54b8ef;
+}
+
+.border-blue-ac {
+  border-color: #54b8ef !important;
+}
+
+</style>
 
 <header>
 	<div class="sm:p-6 md:p-12 lg:p-20 bg-blue-900 flex items-center justify-center">
@@ -132,71 +163,4 @@ Legacies are shared. Time is valued. </span><span><button @click="toggles.blurb3
 
 </div>
 
-<footer>
-	<div class="container-fluid footer-background">
-
-		<!-- row 1 -->
-		<div class="row py-5">
-			<div class="col-lg-8 col-sm-12 logo">
-				<a href="/"><img class="img-fluid" src="https://dev.aspencreekalaska.com/img/aspencreek-logo_white.png"
-								 alt="Aspen Creek White Logo senior living Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /senior care center Anchorage, Alaska elderly care Alaska/Elderly Care Center Alaska/elderly care Alaska/senior assistance Alaska"></a>
-			</div>
-			<div class="social col-lg-4 col-sm-12">
-				<a href="https://www.facebook.com/aspencreekalaska" target="_blank"><i
-							class="fab fa-facebook fa-2x ml-2" aria-hidden="true"></i></a>
-				<a href="https://www.instagram.com/aspencreekalaska/" target="_blank"><i
-							class="fab fa-instagram fa-2x ml-2" aria-hidden="true"></i></a>
-				<a href="https://www.youtube.com/channel/UCeYE9V77h4y_NcM2EpjhvFQ?view_as=subscriber" target="_blank"><i
-							class="fab fa-youtube fa-2x ml-2" aria-hidden="true"></i></a>
-				<a href="https://vimeo.com/user100366085" target="_blank"><i class="fab fa-vimeo fa-2x ml-2"
-																			 aria-hidden="true"></i></a>
-			</div>
-		</div>
-		<!-- /row 1 -->
-
-		<!-- row 2 -->
-		<div class="row py-2">
-			<div class="col-lg-3 col-md-6 ml-5 address-area">
-				<p><i class="fas fa-map-marked-alt" aria-hidden="true"></i>
-					<span class="ml-1">5915 Petersburg Street</span><br>
-					<span class="ml-4">Anchorage, Alaska 99507</span>
-				</p>
-				<p><i class="fas fa-phone-volume" aria-hidden="true"></i><span class="ml-2">&nbsp;907.868.2688</span>
-				</p>
-			</div>
-
-			<div class="col-lg-8 col-md-6">
-				<ul class="nav float-right">
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com" class="nav-link"><i class="fas fa-home"
-																					   aria-hidden="true"></i></a>
-					</li>
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com/living-at-aspen-creek" class="nav-link">Living at
-							Aspen Creek</a>
-					</li>
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com/faq" class="nav-link">FAQ</a>
-					</li>
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com/contact" class="nav-link">Contact</a>
-					</li>
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com/careers" class="nav-link">Careers</a>
-					</li>
-					<li class="nav-item">
-						<a href="https://dev.aspencreekalaska.com/login" class="nav-link">Login</a>
-
-					</li>
-				</ul>
-			</div>
-		</div>
-		<div class="row mt-2">
-			<div class="col-12 text-12 text-dark-grey text-center copyright">
-				<p>All Content © 2020 <a href="https://www.springcreekenterprise.com/" class="text-dark-grey"
-										 target="new">Spring Creek Enterprise</a>. All Rights Reserved.</p>
-			</div>
-		</div>
-	</div>
-
-</footer>
+<script src="https://cdn.skypack.dev/alpinejs@2.7.3"></script>
