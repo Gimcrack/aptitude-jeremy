@@ -36,7 +36,7 @@
 
 </style>
 
-<header class="font-aspen">
+<div class="font-aspen">
 	<div class="sm:p-6 md:p-12 lg:p-20 bg-blue-900 flex items-center justify-center">
 		<div class="max-w-6xl p-4">
 			<h1 class="uppercase text-white text-xl sm:text-3xl md:text-5xl lg:text-7xl text-center leading-snug">
@@ -50,7 +50,7 @@
 		</div>
 
 	</div>
-</header>
+</div>
 
 <main x-data="{
         toggles : {
