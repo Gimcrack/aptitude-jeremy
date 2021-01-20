@@ -1,38 +1,42 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css">
 <style>
-  .video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px;
-  height: 0;
-  overflow: hidden;
-}
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
 
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
+	.font-aspen {
+		font-family: "Josefin Sans", sans-serif;
+    }
 
-.text-blue-ac {
-  color: #54b8ef;
-}
+    .video-container iframe,
+    .video-container object,
+    .video-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
-.bg-blue-ac {
-  background: #54b8ef;
-}
+    .text-blue-ac {
+        color: #54b8ef;
+    }
 
-.border-blue-ac {
-  border-color: #54b8ef !important;
-}
+    .bg-blue-ac {
+        background: #54b8ef;
+    }
+
+    .border-blue-ac {
+        border-color: #54b8ef !important;
+    }
 
 </style>
 
-<header>
+<header class="font-aspen">
 	<div class="sm:p-6 md:p-12 lg:p-20 bg-blue-900 flex items-center justify-center">
 		<div class="max-w-6xl p-4">
 			<h1 class="uppercase text-white text-xl sm:text-3xl md:text-5xl lg:text-7xl text-center leading-snug">
@@ -163,4 +167,4 @@ Legacies are shared. Time is valued. </span><span><button @click="toggles.blurb3
 
 </div>
 
-<script src="https://cdn.skypack.dev/alpinejs@2.7.3"></script>
+<script src="https://unpkg.com/alpinejs@2.8.0/dist/alpine.js"></script>
