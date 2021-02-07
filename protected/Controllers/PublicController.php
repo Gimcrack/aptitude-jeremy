@@ -58,30 +58,21 @@ class PublicController extends MainPageController {
 	}
 
 
-	/*
-	 * Respite page
-	 *
-	 */
-	public function respite() {
-		$this->template = 'respite';
-	}
-
-
-	/*
-	 * Our Stories page
-	 *
-	 */
-	public function stories() {
-
-	}
-
-
 			
 	/* 
 	 * Contact page
 	 *
 	 */
 	public function contact() {
+		
+	}
+
+
+	/*
+	 * Schedule Visit
+	 *
+	 */
+	public function schedule_visit() {
 		
 	}
 
