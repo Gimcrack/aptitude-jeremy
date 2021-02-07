@@ -1,4 +1,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css">
+<style>
+	.c-slide-inner {
+		min-height: calc(100vh - 115px) !important;
+    }
+</style>
 <!-- hero section -->
 <div class="c-slide-inner">
 	<div class="hero-slide-content pt-4 flex flex-col">
@@ -10,16 +15,16 @@
 			<!-- <a class="btn btn-primary" href="{$SITE_URL}/virtual-visit">Take a Virtual Visit</a> -->
 		</div>
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 flex items-center justify-center py-20">
+		<div class="bg-blue-900 flex flex-col md:flex-row items-center justify-center py-20">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
-				<div class="text-blue-300 text-3xl">
+				<div class="text-blue-300 text-xl md:text-3xl">
 					VOTED
 				</div>
-				<div class="text-white text-6xl">
+				<div class="text-white text-3xl md:text-6xl">
 					#1 in Assisted Living
 				</div>
-				<div class="text-blue-300 text-3xl">
+				<div class="text-blue-300 text-xl md:text-3xl">
 					BY OUR FELLOW ALASKANS
 				</div>
 			</div>
