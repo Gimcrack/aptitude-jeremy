@@ -9,8 +9,8 @@
 <div class="c-slide-inner">
 	<div class="hero-slide-content pt-4 flex flex-col">
 		<div class="container-fluid pl-5 flex-1 space-y-4">
-			<h1 class="text-4xl">Senior Living. Redefined.</h1>
-			<p class="text-xl">Aspen Creek is changing what Senior Living means for Alaskans. Assisted Living at Aspen Creek Senior
+			<h1>Senior Living. Redefined.</h1>
+			<p>Aspen Creek is changing what Senior Living means for Alaskans. Assisted Living at Aspen Creek Senior
 				Living is not only about compassionate care and healthy lifestyles, it is about community.</p>
 			<a href="{$SITE_URL}/contact" class="btn btn-primary">Get more info</a>
 			<!-- <a class="btn btn-primary" href="{$SITE_URL}/virtual-visit">Take a Virtual Visit</a> -->
