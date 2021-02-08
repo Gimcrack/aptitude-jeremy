@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/components.min.css" integrity="sha512-f6TS5CFJrH/EWmarcBwG54/kW9wwejYMcw+I7fRnGf33Vv4yCvy4BecCKTti3l8e8HnUiIbxx3V3CuUYGqR1uQ==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/utilities.min.css" integrity="sha512-DjlU1UdCP+4lA/lTtRoMMyTlUBGgQueyJgEXSp08GgiW3BT5QWZNRSFhKcvCutJ66oF1YVAXbW8sDSnqeVSOeA==" crossorigin="anonymous" />
 <style>
 	.c-slide-inner {
 		min-height: calc(100vh - 115px) !important;
@@ -30,7 +31,7 @@
 			</div>
 			<!-- right side -->
 			<div class="flex">
-				<img class="my-10 mx-0 md:mx-20 md:my-0"
+				<img class="my-10 md:mx-20 md:my-0"
 					 src="https://res.cloudinary.com/codefaber/image/upload/v1612740354/aspen-creek/boa-final_uvvczi.png"
 					 alt="">
 			</div>
