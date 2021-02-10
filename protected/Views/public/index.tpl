@@ -11,7 +11,7 @@
 </style>
 <!-- hero section -->
 <div class="c-slide-inner">
-	<div class="pt-4 flex full-height flex-column md:bg-transparent bg-black bg-opacity-30">
+	<div class="pt-4 flex full-height flex-column md:bg-transparent bg-black bg-opacity-60">
 
 		<div class="container-fluid p-5 rounded flex-1 ">
 			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
