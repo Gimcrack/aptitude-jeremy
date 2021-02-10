@@ -15,7 +15,7 @@
 
 		<div class="container-fluid p-5 rounded flex-1 ">
 			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
-			<p class="text-gray-100 md:text-gray-900 w-full md:w-1/3 lg:w-1/4">Aspen Creek is changing what Senior Living means
+			<p class="text-gray-100 md:text-gray-900 w-full md:w-1/2 lg:w-1/3">Aspen Creek is changing what Senior Living means
 				for Alaskans. Assisted Living at Aspen Creek Senior
 				Living is not only about compassionate care and healthy lifestyles, it is about community.</p>
 			<a href="{$SITE_URL}/contact" class="btn btn-primary">Get more info</a>
@@ -27,13 +27,13 @@
 		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row items-center justify-center py-20">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
-				<div class="text-blue-300 text-xl md:text-3xl">
+				<div class="text-blue-300 text-xl lg:text-3xl">
 					VOTED
 				</div>
-				<div class="text-white text-3xl lg:text-6xl">
+				<div class="text-white text-2xl lg:text-6xl">
 					#1 in Assisted Living
 				</div>
-				<div class="text-blue-300 text-xl md:text-3xl">
+				<div class="text-blue-300 text-xl lg:text-3xl">
 					BY OUR FELLOW ALASKANS
 				</div>
 			</div>
