@@ -5,14 +5,13 @@
 	  integrity="sha512-DjlU1UdCP+4lA/lTtRoMMyTlUBGgQueyJgEXSp08GgiW3BT5QWZNRSFhKcvCutJ66oF1YVAXbW8sDSnqeVSOeA=="
 	  crossorigin="anonymous"/>
 <style>
-    .c-slide-inner {
+    .full-height {
         min-height: calc(100vh - 70px) !important;
-		background: unset;
     }
 </style>
 <!-- hero section -->
-<div class="">
-	<div class="pt-4 c-slide-inner flex flex-column md:bg-transparent bg-black bg-opacity-30">
+<div class="c-slide-inner">
+	<div class="pt-4 flex full-height flex-column md:bg-transparent bg-black bg-opacity-30">
 
 		<div class="container-fluid p-5 rounded flex-1 ">
 			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
