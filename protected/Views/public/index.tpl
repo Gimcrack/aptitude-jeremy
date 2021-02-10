@@ -6,12 +6,12 @@
 	  crossorigin="anonymous"/>
 <style>
     .c-slide-inner {
-        min-height: calc(100vh - 115px) !important;
+        min-height: calc(100vh - 70px) !important;
     }
 </style>
 <!-- hero section -->
-<div class="c-slide-inner ">
-	<div class="pt-4 flex flex-column md:bg-transparent bg-black bg-opacity-30">
+<div class="">
+	<div class="pt-4 flex flex-column md:bg-transparent bg-black bg-opacity-30 c-slide-inner ">
 
 		<div class="container-fluid p-5 rounded flex-1 ">
 			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
@@ -24,7 +24,7 @@
 
 
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row items-center justify-center py-20 my-10">
+		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row items-center justify-center py-20">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
 				<div class="text-blue-300 text-xl md:text-3xl">
