@@ -5,7 +5,7 @@
 	  integrity="sha512-DjlU1UdCP+4lA/lTtRoMMyTlUBGgQueyJgEXSp08GgiW3BT5QWZNRSFhKcvCutJ66oF1YVAXbW8sDSnqeVSOeA=="
 	  crossorigin="anonymous"/>
 <style>
-    .full-height {
+    .full-height, .c-slide-inner {
         min-height: calc(100vh - 70px) !important;
     }
 </style>
@@ -24,7 +24,7 @@
 
 
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row items-center justify-center py-20">
+		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row md:space-x-20 items-center justify-center py-20">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
 				<div class="text-blue-300 text-xl lg:text-3xl">
@@ -39,7 +39,7 @@
 			</div>
 			<!-- right side -->
 			<div class="flex">
-				<img class="my-10 md:mx-20 md:my-0"
+				<img class="my-10 md:my-0"
 					 src="https://res.cloudinary.com/codefaber/image/upload/v1612740354/aspen-creek/boa-final_uvvczi.png"
 					 alt="">
 			</div>
