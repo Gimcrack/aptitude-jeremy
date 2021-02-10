@@ -1,22 +1,30 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/components.min.css" integrity="sha512-f6TS5CFJrH/EWmarcBwG54/kW9wwejYMcw+I7fRnGf33Vv4yCvy4BecCKTti3l8e8HnUiIbxx3V3CuUYGqR1uQ==" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/utilities.min.css" integrity="sha512-DjlU1UdCP+4lA/lTtRoMMyTlUBGgQueyJgEXSp08GgiW3BT5QWZNRSFhKcvCutJ66oF1YVAXbW8sDSnqeVSOeA==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/components.min.css"
+	  integrity="sha512-f6TS5CFJrH/EWmarcBwG54/kW9wwejYMcw+I7fRnGf33Vv4yCvy4BecCKTti3l8e8HnUiIbxx3V3CuUYGqR1uQ=="
+	  crossorigin="anonymous"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/utilities.min.css"
+	  integrity="sha512-DjlU1UdCP+4lA/lTtRoMMyTlUBGgQueyJgEXSp08GgiW3BT5QWZNRSFhKcvCutJ66oF1YVAXbW8sDSnqeVSOeA=="
+	  crossorigin="anonymous"/>
 <style>
-	.c-slide-inner {
-		min-height: calc(100vh - 115px) !important;
+    .c-slide-inner {
+        min-height: calc(100vh - 115px) !important;
     }
 </style>
 <!-- hero section -->
-<div class="c-slide-inner">
-	<div class="hero-slide-content pt-4 flex flex-col">
-		<div class="container-fluid pl-5 flex-1 space-y-4">
-			<h1>Senior Living. Redefined.</h1>
-			<p>Aspen Creek is changing what Senior Living means for Alaskans. Assisted Living at Aspen Creek Senior
+<div class="c-slide-inner ">
+	<div class="pt-4 flex flex-column md:bg-transparent bg-black bg-opacity-30">
+
+		<div class="container-fluid p-5 rounded flex-1 ">
+			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
+			<p class="text-gray-100 md:text-gray-900 w-full md:w-1/4">Aspen Creek is changing what Senior Living means
+				for Alaskans. Assisted Living at Aspen Creek Senior
 				Living is not only about compassionate care and healthy lifestyles, it is about community.</p>
 			<a href="{$SITE_URL}/contact" class="btn btn-primary">Get more info</a>
 			<!-- <a class="btn btn-primary" href="{$SITE_URL}/virtual-visit">Take a Virtual Visit</a> -->
 		</div>
+
+
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 flex flex-col md:flex-row items-center justify-center py-20">
+		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row items-center justify-center py-20 my-10">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
 				<div class="text-blue-300 text-xl md:text-3xl">
@@ -40,6 +48,29 @@
 	</div>
 </div>
 <!-- /hero section -->
+
+<!-- VOTED #1 mobile -->
+<div class="bg-blue-900 flex md:hidden flex-col md:flex-row items-center justify-center py-20">
+	<!-- lsft side -->
+	<div class="flex flex-col space-y-4 text-center">
+		<div class="text-blue-300 text-xl md:text-3xl">
+			VOTED
+		</div>
+		<div class="text-white text-3xl md:text-6xl">
+			#1 in Assisted Living
+		</div>
+		<div class="text-blue-300 text-xl md:text-3xl">
+			BY OUR FELLOW ALASKANS
+		</div>
+	</div>
+	<!-- right side -->
+	<div class="flex">
+		<img width="300"
+			 src="https://res.cloudinary.com/codefaber/image/upload/v1612740354/aspen-creek/boa-final_uvvczi.png"
+			 alt="">
+	</div>
+</div>
+<!-- /VOTED -->
 
 <!-- our community -->
 <div class="container my-5">
