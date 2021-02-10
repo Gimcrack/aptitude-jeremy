@@ -7,11 +7,12 @@
 <style>
     .c-slide-inner {
         min-height: calc(100vh - 70px) !important;
+		background: unset;
     }
 </style>
 <!-- hero section -->
 <div class="">
-	<div class="pt-4 flex flex-column md:bg-transparent bg-black bg-opacity-30 c-slide-inner ">
+	<div class="pt-4 c-slide-inner flex flex-column md:bg-transparent bg-black bg-opacity-30">
 
 		<div class="container-fluid p-5 rounded flex-1 ">
 			<h1 class="text-gray-100 md:text-gray-900">Senior Living. Redefined.</h1>
