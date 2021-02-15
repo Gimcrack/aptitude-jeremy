@@ -81,14 +81,14 @@
 		</div>
 	</div>
 	<div class="row pb-5">
-		<div class="col-12 space-y-2">
-			<p class="h3 text-center">Aspen Creek was designed to provide life-changing experiences for you, your
+		<div class="w-full md:w-2/3 mx-auto text-center space-y-4 text-2xl">
+			<p class="">Aspen Creek was designed to provide life-changing experiences for you, your
 				family, and all who choose to be a part of our Senior Care Center Community in Anchorage Alaska.</p>
-			<p class="h3 text-center">Senior Care in Alaska is about more than just having a beautiful environment for
+			<p class="">Senior Care in Alaska is about more than just having a beautiful environment for
 				you to receive care with your activities of daily living. It is about creating relationships, making
 				memories with your family members and with friends, old and new. It is about living life and enjoying
 				each day to the fullest.</p>
-			<p class="h3 text-center">These relationships that are strengthened and created affect more than just you,
+			<p class="">These relationships that are strengthened and created affect more than just you,
 				they have lasting impact on all of those who take time to appreciate the legacies you contribute to our
 				society.</p>
 		</div>
@@ -114,7 +114,7 @@
 <div class="container my-5 services">
 	<div class="row">
 		<div class="col-md-4 text-center">
-			<img src="{$IMAGES}/tray.png" class="pb-4" alt="">
+			<img src="{$IMAGES}/tray.png" class="pb-4" alt="fine dining">
 			<h4>FINE DINING</h4>
 			<p>Our award winning Executive Chef creates beautifully presented, delicious, and nutritious meals every day
 				and our dietitian is available to help with any dietary restrictions.</p>
@@ -129,7 +129,7 @@
 					the best, always delivering exceptional and compassionate caregiving. We take great pride in the
 					opportunity we have to provide senior assistance in Alaska.</p>
 			</a>
-			<a class="btn btn-primary mt-2" href="https://aspencreekalaska.com/resident-application">
+			<a class="btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
 				New Resident Application
 			</a>
 		</div>
