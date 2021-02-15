@@ -8,6 +8,11 @@
     .full-height, .c-slide-inner {
         min-height: calc(100vh - 70px) !important;
     }
+	@supports (-webkit-overflow-scrolling: touch) {
+		body *: {
+			background-attachment: scroll;
+		}
+	}
 </style>
 <!-- hero section -->
 <div class="c-slide-inner">
@@ -143,7 +148,7 @@
 				intellectual goals.</p>
 		</div>
 
-		<a class="block md:hidden btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
+		<a class="block md:hidden mx-auto btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
 			New Resident Application
 		</a>
 	</div>
