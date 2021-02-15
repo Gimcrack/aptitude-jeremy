@@ -8264,7 +8264,7 @@ body {
 
 /******** color palette **********/
 .text-dark-blue {
-  color: #213c60;
+  color: #053368;
 }
 
 .text-light-blue {
@@ -8290,7 +8290,7 @@ body {
 }
 
 .btn-primary:hover {
-  background: #213c60;
+  background: #053368;
 }
 
 .text-6 {
@@ -8812,7 +8812,7 @@ footer ul.nav a:hover {
   color: #81b7e3;
 }
 .news .recent-news ul.nav a:hover {
-  color: #213c60;
+  color: #053368;
 }
 
 /******* Blog Page ***********/
