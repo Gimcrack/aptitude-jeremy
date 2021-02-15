@@ -9,8 +9,8 @@
         min-height: calc(100vh - 70px) !important;
     }
 	@supports (-webkit-overflow-scrolling: touch) {
-		body *: {
-			background-attachment: scroll;
+		.c-slide-inner: {
+			background-attachment: scroll !important;
 		}
 	}
 </style>
