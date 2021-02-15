@@ -13,6 +13,7 @@
 			background-attachment: scroll !important;
 		}
 	}
+	
 </style>
 <!-- hero section -->
 <div class="c-slide-inner">
@@ -29,16 +30,16 @@
 
 
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row md:space-x-20 items-center justify-center py-8">
+		<div class="bg-blue-dark-ac hidden md:flex flex-col md:flex-row md:space-x-20 items-center justify-center py-8">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
-				<div class="text-blue-300 text-xl lg:text-2xl">
+				<div class="text-blue-light-ac text-xl lg:text-2xl">
 					VOTED
 				</div>
 				<div class="text-white text-2xl lg:text-4xl">
 					#1 in Assisted Living
 				</div>
-				<div class="text-blue-300 text-xl lg:text-2xl">
+				<div class="text-blue-light-ac text-xl lg:text-2xl">
 					BY OUR FELLOW ALASKANS
 				</div>
 			</div>
@@ -55,16 +56,16 @@
 <!-- /hero section -->
 
 <!-- VOTED #1 mobile -->
-<div class="bg-blue-900 flex md:hidden flex-col md:flex-row items-center justify-center py-20">
+<div class="bg-blue-dark-ac flex md:hidden flex-col md:flex-row items-center justify-center py-20">
 	<!-- lsft side -->
 	<div class="flex flex-col space-y-4 text-center">
-		<div class="text-blue-300 text-xl md:text-3xl">
+		<div class="text-blue-light-ac text-xl md:text-3xl">
 			VOTED
 		</div>
 		<div class="text-white text-3xl md:text-6xl">
 			#1 in Assisted Living
 		</div>
-		<div class="text-blue-300 text-xl md:text-3xl">
+		<div class="text-blue-light-ac text-xl md:text-3xl">
 			BY OUR FELLOW ALASKANS
 		</div>
 	</div>
