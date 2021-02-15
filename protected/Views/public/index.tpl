@@ -81,7 +81,7 @@
 		</div>
 	</div>
 	<div class="row pb-5">
-		<div class="w-full md:w-2/3 mx-auto text-center space-y-4 text-2xl">
+		<div class="w-full md:w-2/3 mx-auto text-center space-y-4 text-2xl px-4">
 			<p class="">Aspen Creek was designed to provide life-changing experiences for you, your
 				family, and all who choose to be a part of our Senior Care Center Community in Anchorage Alaska.</p>
 			<p class="">Senior Care in Alaska is about more than just having a beautiful environment for
@@ -129,7 +129,7 @@
 					the best, always delivering exceptional and compassionate caregiving. We take great pride in the
 					opportunity we have to provide senior assistance in Alaska.</p>
 			</a>
-			<a class="btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
+			<a class="hidden md:block btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
 				New Resident Application
 			</a>
 		</div>
@@ -142,6 +142,10 @@
 				address the total wellness of each individual by focusing on their physical, social, spiritual, and
 				intellectual goals.</p>
 		</div>
+
+		<a class="block md:hidden btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
+			New Resident Application
+		</a>
 	</div>
 </div>
 <!-- /services -->
