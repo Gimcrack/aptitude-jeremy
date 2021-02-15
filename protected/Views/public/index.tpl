@@ -24,22 +24,22 @@
 
 
 		<!-- VOTED #1 -->
-		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row md:space-x-20 items-center justify-center py-20">
+		<div class="bg-blue-900 hidden md:flex flex-col md:flex-row md:space-x-20 items-center justify-center py-8">
 			<!-- lsft side -->
 			<div class="flex flex-col space-y-4 text-center">
-				<div class="text-blue-300 text-xl lg:text-3xl">
+				<div class="text-blue-300 text-xl lg:text-2xl">
 					VOTED
 				</div>
-				<div class="text-white text-2xl lg:text-6xl">
+				<div class="text-white text-2xl lg:text-4xl">
 					#1 in Assisted Living
 				</div>
-				<div class="text-blue-300 text-xl lg:text-3xl">
+				<div class="text-blue-300 text-xl lg:text-2xl">
 					BY OUR FELLOW ALASKANS
 				</div>
 			</div>
 			<!-- right side -->
 			<div class="flex">
-				<img class="my-10 md:my-0"
+				<img class="my-8 md:my-0"
 					 src="https://res.cloudinary.com/codefaber/image/upload/v1612740354/aspen-creek/boa-final_uvvczi.png"
 					 alt="">
 			</div>
