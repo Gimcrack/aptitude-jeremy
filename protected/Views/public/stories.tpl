@@ -27,10 +27,10 @@
 <div class="font-aspen">
 	<div class="sm:p-6 md:p-12 lg:p-20 bg-blue-dark-ac flex items-center justify-center">
 		<div class="max-w-6xl p-4">
-			<h1 class="uppercase text-white text-xl sm:text-3xl md:text-5xl lg:text-7xl text-center leading-snug">
+			<h1 class="uppercase text-white text-xl sm:text-3xl md:text-5xl lg:text-7xl text-center leading-snug mb-2">
 				Stories That<br>Connect Us All
 			</h1>
-			<p class="bg-blue-light-ac font-bold text-base sm:text-xl md:text-2xl lg:text-3xl text-center leading-snug">
+			<p class="text-blue-light-ac font-bold text-base sm:text-xl md:text-2xl lg:text-3xl text-center leading-snug">
 				At Aspen Creek, we are all about community, family, and connection. We love hearing about the
 				experiences and relationships that make our residents so special, and we are honored to get to share
 				them.
