@@ -13,7 +13,7 @@
 			background-attachment: scroll !important;
 		}
 	}
-	
+
 </style>
 <!-- hero section -->
 <div class="c-slide-inner">
@@ -135,7 +135,7 @@
 					the best, always delivering exceptional and compassionate caregiving. We take great pride in the
 					opportunity we have to provide senior assistance in Alaska.</p>
 			</a>
-			<a class="hidden md:block btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
+			<a class="hidden md:block btn btn-lg btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
 				New Resident Application
 			</a>
 		</div>
@@ -149,7 +149,7 @@
 				intellectual goals.</p>
 		</div>
 
-		<a class="block md:hidden mx-auto btn btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
+		<a class="block md:hidden mx-auto btn btn-lg btn-primary my-4" href="https://aspencreekalaska.com/resident-application">
 			New Resident Application
 		</a>
 	</div>
